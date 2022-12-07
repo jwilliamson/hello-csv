@@ -13,6 +13,7 @@ name: Create and publish a Docker image
 #   contents: read
 #   pull-requests: write
 
+
 on:
   push:
     branches: ['development']
